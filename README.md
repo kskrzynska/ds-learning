@@ -1,2 +1,2 @@
 # ds-learning
-Practice activities during DS classes.
+First practice activities during DS classes.
